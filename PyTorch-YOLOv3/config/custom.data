@@ -1,0 +1,7 @@
+classes= 1
+train=data/custom/train.txt
+valid=data/custom/valid.txt
+names=data/custom/classes.names
+labelPath=/Users/qingclass/Desktop/aabbccc/labels/
+imagePath=/Users/qingclass/Desktop/aabbccc/images/
+imagesName=/Users/qingclass/Desktop/aabbccc/imagesName.txt
